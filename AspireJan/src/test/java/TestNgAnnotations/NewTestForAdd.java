@@ -8,7 +8,11 @@ public class NewTestForAdd {
 	
 	@Test
 	public void f() {
-		Assert.assertEquals(10, caladd.add(5, 6));
+		Assert.assertEquals(10, caladd.add(5, 5));
+		Assert.assertTrue(true, "Second Assertion");  
+		Assert.assertEquals("apple", "orange"); 
+		Assert.assertFalse(true); 
+		Assert.assertNull(null);
 	}
 	
 
