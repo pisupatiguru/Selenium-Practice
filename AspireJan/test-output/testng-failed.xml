@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestNgAnnotations.NewTestForAdd">
+      <class name="TestNgAnnotations.DependonTestng">
         <methods>
-          <include name="f"/>
+          <include name="login"/>
+          <include name="regis"/>
+          <include name="search"/>
         </methods>
-      </class> <!-- TestNgAnnotations.NewTestForAdd -->
+      </class> <!-- TestNgAnnotations.DependonTestng -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
