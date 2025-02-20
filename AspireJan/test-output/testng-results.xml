@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-18T02:19:21 EST" name="Suite" finished-at="2025-02-18T02:19:21 EST" duration-ms="25">
+  <suite started-at="2025-02-18T05:34:31 EST" name="Default suite" finished-at="2025-02-18T05:34:37 EST" duration-ms="6743">
     <groups>
     </groups>
-    <test started-at="2025-02-18T02:19:21 EST" name="Test" finished-at="2025-02-18T02:19:21 EST" duration-ms="25">
-      <class name="TestNgAnnotations.IgnoreTest">
-        <test-method signature="TestA()[pri:0, instance:TestNgAnnotations.IgnoreTest@55b7a4e0]" started-at="2025-02-18T02:19:21 EST" name="TestA" finished-at="2025-02-18T02:19:21 EST" duration-ms="7" status="PASS">
+    <test started-at="2025-02-18T05:34:31 EST" name="Default test" finished-at="2025-02-18T05:34:37 EST" duration-ms="6743">
+      <class name="SeleniumBasics.DropdownList">
+        <test-method signature="f()[pri:0, instance:SeleniumBasics.DropdownList@38c6f217]" started-at="2025-02-18T05:34:31 EST" name="f" finished-at="2025-02-18T05:34:37 EST" duration-ms="6720" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestA -->
-        <test-method signature="TestC()[pri:0, instance:TestNgAnnotations.IgnoreTest@55b7a4e0]" started-at="2025-02-18T02:19:21 EST" name="TestC" finished-at="2025-02-18T02:19:21 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestC -->
-      </class> <!-- TestNgAnnotations.IgnoreTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- f -->
+      </class> <!-- SeleniumBasics.DropdownList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
