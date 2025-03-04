@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-18T05:34:31 EST" name="Default suite" finished-at="2025-02-18T05:34:37 EST" duration-ms="6743">
+  <suite started-at="2025-02-25T23:30:54 EST" name="Default suite" finished-at="2025-02-25T23:31:07 EST" duration-ms="12546">
     <groups>
     </groups>
-    <test started-at="2025-02-18T05:34:31 EST" name="Default test" finished-at="2025-02-18T05:34:37 EST" duration-ms="6743">
-      <class name="SeleniumBasics.DropdownList">
-        <test-method signature="f()[pri:0, instance:SeleniumBasics.DropdownList@38c6f217]" started-at="2025-02-18T05:34:31 EST" name="f" finished-at="2025-02-18T05:34:37 EST" duration-ms="6720" status="PASS">
+    <test started-at="2025-02-25T23:30:54 EST" name="Default test" finished-at="2025-02-25T23:31:07 EST" duration-ms="12546">
+      <class name="SeleniumBasics.MultiSelectionDropdown">
+        <test-method signature="f()[pri:0, instance:SeleniumBasics.MultiSelectionDropdown@38c6f217]" started-at="2025-02-25T23:30:54 EST" name="f" finished-at="2025-02-25T23:31:07 EST" duration-ms="12510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-      </class> <!-- SeleniumBasics.DropdownList -->
+      </class> <!-- SeleniumBasics.MultiSelectionDropdown -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
